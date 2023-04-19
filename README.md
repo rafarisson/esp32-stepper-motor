@@ -1,2 +1,2 @@
 # esp32-stepper-motor
-esp32 stepper motor with ledc and pcnt
+esp32 stepper motor (driver A4988) with ledc and pcnt
